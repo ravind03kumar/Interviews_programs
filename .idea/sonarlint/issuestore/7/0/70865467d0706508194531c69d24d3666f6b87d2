@@ -1,0 +1,16 @@
+
+E
+java:S1611"/Remove the parentheses around the "n" parameter(ô±Ù“
+B
+java:S1602",Remove useless curly braces around statement(ô±Ù“
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ô±Ù“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¨§¯
+V	java:S125"<This block of commented-out lines of code should be removed.(»ž•ûÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'String::toLowerCase'.(Â®»úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç’¤™
+R
+java:S1128"7Remove this unused import 'remove_element.RemoveArray'.(ƒÛµýÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'revers_string.Reverse_String'.(÷ˆÎ“

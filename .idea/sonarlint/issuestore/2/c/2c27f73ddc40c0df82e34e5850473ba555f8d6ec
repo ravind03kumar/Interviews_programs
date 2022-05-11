@@ -1,0 +1,26 @@
+
+L
+java:S1854"6Remove this useless assignment to local variable "Y2".(ÖÂ â
+4
+java:S2129"Remove this "Long" constructor(ÁãíÅ
+5
+java:S2129
+"Remove this "Short" constructor(ìÛ‘
+=
+java:S1481"'Remove this unused "Y2" local variable.(ÖÂ â
+7
+java:S2129"!Remove this "Integer" constructor(¼¤ß¾
+l
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(”îªª
+q
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(­¦’¯úÿÿÿÿ
+l
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(Ó÷›
+q
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(§´Íûøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±ÚÂ˜øÿÿÿÿ
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÛ‘
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÂ â
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(›üºÔøÿÿÿÿ
